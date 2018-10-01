@@ -23,3 +23,4 @@ for i in range(num):
                     l.append(a[u]*b[z])
                     break
     print(l[0])
+#pypy로만 시간 초과가 
